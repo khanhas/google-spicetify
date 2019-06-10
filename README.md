@@ -13,7 +13,7 @@ Spotify with Google style
 
 ## How to install
 1. Install [spicetify-cli](https://github.com/khanhas/spicetify-cli) and make sure it applies default theme succesfully.
-2. Run these command:
+2. Run these commands:
   
 **Linux and MacOS** in Bash:
 ```bash
