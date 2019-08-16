@@ -1114,6 +1114,9 @@ button#player-button-repeat, #player-button-thumbs-up, .view-player button[data-
 .view-player .extra-controls-container .volumebar-container .progress-bar-wrapper.active .inner, .view-player .extra-controls-container .volumebar-container:hover .inner {
 	background-color: var(--modspotify_sidebar_indicator_and_hover_button_bg);
 }
+.view-player .extra-controls-container .volumebar-container .progress-bar-wrapper .inner {
+	background-color: var(--modspotify_sidebar_indicator_and_hover_button_bg);
+}
 
 /* Search page */
 
