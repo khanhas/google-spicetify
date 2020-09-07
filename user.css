@@ -6,35 +6,35 @@
 }
 
 @font-face {
-	font-family: "Google Sans Display";
-	src: url("https://d2j0f09xqmv212.cloudfront.net/fonts/GoogleSansDisplayRegular.woff2") format("woff2");
+	font-family: "Open Sans";
+	src: url("https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFWJ0bbck.woff2") format("woff2");
 	font-style: normal;
 	font-weight: 400;
 }
 
 @font-face {
-	font-family: "Google Sans Display";
-	src: url("https://d2j0f09xqmv212.cloudfront.net/fonts/GoogleSansDisplayMedium.woff2") format("woff2");
+	font-family: "Open Sans";
+	src: url("https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2") format("woff2");
 	font-style: normal;
-	font-weight: 500;
+	font-weight: 600;
 }
 
 @font-face {
 	font-family: "Roboto";
-	src: url("https://d2j0f09xqmv212.cloudfront.net/fonts/Roboto.woff2") format("woff2");
+	src: url("https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu72xKOzY.woff2") format("woff2");
 	font-style: normal;
 	font-weight: 400;
 }
 
 @font-face {
 	font-family: "Roboto";
-	src: url("https://d2j0f09xqmv212.cloudfront.net/fonts/RobotoMedium.woff2") format("woff2");
+	src: url("https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4.woff2") format("woff2");
 	font-style: normal;
 	font-weight: 500;
 }
 
 body {
-	--glue-font-family: "Google Sans Display", "spotify-circular", "spotify-circular-cyrillic", "spotify-circular-arabic", "spotify-circular-hebrew", "Helvetica Neue", Helvetica, Arial, "Hiragino Kaku Gothic Pro", "Meiryo", "MS Gothic", sans-serif;
+	--glue-font-family: "Open Sans", "spotify-circular", "spotify-circular-cyrillic", "spotify-circular-arabic", "spotify-circular-hebrew", "Helvetica Neue", Helvetica, Arial, "Hiragino Kaku Gothic Pro", "Meiryo", "MS Gothic", sans-serif;
 	--info-font-family: "Roboto", "spotify-circular", "spotify-circular-cyrillic", "spotify-circular-arabic", "spotify-circular-hebrew", "Helvetica Neue", Helvetica, Arial, "Hiragino Kaku Gothic Pro", "Meiryo", "MS Gothic", sans-serif;
 	letter-spacing: 0;
 }
